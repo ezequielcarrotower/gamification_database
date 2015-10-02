@@ -1,0 +1,16 @@
+{
+    "name": "ezequielcarrotower/gamification_database",
+    "description": "gamification dastabase",
+    "authors": [
+        {
+            "name": "Ezequiel Carro",
+            "email": "ezequielcarrosalle@gmail.com"
+        }
+    ],
+    "require": {
+        "ezequielcarrotower/gamification_database": "dev-master"
+    },
+    "autoload": {
+        "psr-0": { "towerhouses\\database\\": "/database/migrations" }
+    }
+}
