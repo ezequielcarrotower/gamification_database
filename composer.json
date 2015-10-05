@@ -10,8 +10,5 @@
     ],
     "require": {
         "ezequielcarrotower/gamification_database": "dev-master"
-    },
-    "autoload": {
-        "psr-0": { "towerhouses\\database\\": "/database/migrations" }
     }
 }
