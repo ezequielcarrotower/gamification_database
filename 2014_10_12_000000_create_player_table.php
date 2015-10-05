@@ -1,8 +1,7 @@
 <?php
-
+namespace MyApp\Controllers\database\migrations;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
-use towerhouses\database;
 
 class CreateUsersTable extends Migration
 {
