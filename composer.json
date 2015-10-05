@@ -7,11 +7,6 @@
             "email": "ezequielcarrosalle@gmail.com"
         }
     ],
-    "autoload" : [
-        {
-            "psr-0": { "towerhouses\\database\\": "database/migrations/"}
-        }
-    ],
     "require": {
     }
     
