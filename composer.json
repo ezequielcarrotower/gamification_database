@@ -7,6 +7,12 @@
             "email": "ezequielcarrosalle@gmail.com"
         }
     ],
+    "autoload" : [
+        {
+            "psr-0": { "towerhouses\\database\\": "app/database/"] }
+        }
+    ],
     "require": {
     }
+    
 }
