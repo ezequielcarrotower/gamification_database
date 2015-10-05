@@ -1,6 +1,5 @@
 {
     "name": "ezequielcarrotower/gamification_database",
-    "version": "dev-master",
     "description": "gamification dastabase",
     "authors": [
         {
@@ -9,6 +8,5 @@
         }
     ],
     "require": {
-        "ezequielcarrotower/gamification_database": "dev-master"
     }
 }
