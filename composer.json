@@ -9,7 +9,7 @@
     ],
     "autoload" : [
         {
-            "psr-0": { "towerhouses\\database\\": "database/"}
+            "psr-0": { "towerhouses\\database\\": "database/migrations/"}
         }
     ],
     "require": {
